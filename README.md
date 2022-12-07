@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+            <h1 style="color:cyan;" align="center"> Larissa Emy</h1>
+        <img src="( nome da foto)" height="30%" width="15%" align="left"></>
+
     <title> Nosso meio ambiente </title>
     <meta charset="utf-8"/>
 </head>
   
-<body>
+  <body style="background-color:purple;">
+            <h2 style="color:cyan;" align="center"> Preservar o meio Ambiente </h2>
 Refere-se a um conjunto de práticas que visam proteger a natureza de ações que provocam danos ao meio ambiente, como a extinção de animais, a degradação das florestas, a poluição, o aquecimento global e o descarte incorreto de lixo.
 
 Devido ao modelo econômico atual, baseado em elevados níveis de consumo, o ser humano tem causado inúmeros prejuízos para a flora e fauna no planeta, ocasionando desequilíbrios ambientais irreversíveis.
@@ -23,4 +27,12 @@ Nunca compre animais silvestres sem registro. Ao comprar animais ilegais, você 
 
 Cuide bem do seu lixo. Nunca jogue lixo no chão, importando-se sempre com o destino adequado dele. Separar o lixo reciclável é importante para diminuir a quantidade de lixo nas grandes cidades.
 </body>
+    <footer>
+        <p style="color:cyan;"> Feito por: Larissa Emy</p>
+        <p style="color:cyan;"> E-mail: <a style="color:white;" href="mailto: ferro.larissa@escola.pr.gov.br "> ferro.larissa@escola.pr.gov.br </a> </p>
+ 
+ 
+    </footer>
+</html>
+
 </html>
